@@ -57,46 +57,57 @@
     <Reference Include="AcCoreMgd">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\accoremgd.dll</HintPath>
     </Reference>
     <Reference Include="AcDbMgd">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\acdbmgd.dll</HintPath>
     </Reference>
     <Reference Include="AcMgd">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\acmgd.dll</HintPath>
     </Reference>
     <Reference Include="AdWindows">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\AdWindows.dll</HintPath>
     </Reference>
     <Reference Include="AcWindows">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\AcWindows.dll</HintPath>
     </Reference>
     <Reference Include="AcTcMgd">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\AcTcMgd.dll</HintPath>
     </Reference>
     <Reference Include="AcDx">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\AcDx.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.AutoCAD.Interop.Common">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\Autodesk.AutoCAD.Interop.Common.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.AutoCAD.Interop">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\Autodesk.AutoCAD.Interop.dll</HintPath>
     </Reference>
     <Reference Include="acdbmgdbrep">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\acdbmgdbrep.dll</HintPath>
     </Reference>
     <Reference Include="AcCui">
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2021\AcCui.dll</HintPath>
     </Reference>
     <!--ACA References Begin-->
     <!--ACA Refences End-->
